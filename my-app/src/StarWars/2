@@ -1,0 +1,26 @@
+wc: Enum: read: Is a directory
+wc: InputObject: read: Is a directory
+wc: Interface: read: Is a directory
+wc: Object: read: Is a directory
+wc: Union: read: Is a directory
+       0 2
+      60 Enum/Episode.elm
+      60 Enum/Language.elm
+     108 Enum/Phrase.elm
+      83 InputObject.elm
+      83 Interface/Character.elm
+       9 Interface.elm
+      36 Mutation.elm
+      30 Object/ChatMessage.elm
+      62 Object/Droid.elm
+      62 Object/Human.elm
+      17 Object.elm
+     123 Query.elm
+      65 Scalar.elm
+      24 ScalarCodecs.elm
+      24 Subscription.elm
+      47 Union/CharacterUnion.elm
+       9 Union.elm
+      10 VerifyScalarCodecs.elm
+       0 elm-graphql-metadata.json
+     912 total
